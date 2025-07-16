@@ -2,6 +2,20 @@
 
 Portal berita berbasis Next.js Pages Router dengan fondasi layanan Go.
 
+## Tangkapan layar
+
+<img src="screenshots/01-beranda.jpg" alt="Beranda LokaFeed: daftar berita, pencarian, dan kategori" width="720">
+
+Beranda: berita ringkas, pencarian, dan kategori yang mengikuti sumber aktif.
+
+<img src="screenshots/02-artikel.jpg" alt="Detail artikel dengan gambar dan atribusi sumber" width="720">
+
+Detail artikel: judul, waktu terbit, atribusi sumber, dan tautan ke artikel asli.
+
+<img src="screenshots/03-login.jpg" alt="Halaman masuk LokaFeed dengan tombol Google" width="560">
+
+Masuk: satu tombol Google, tanpa formulir tambahan.
+
 ## Struktur
 
 | Direktori | Isi |
