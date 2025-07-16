@@ -8,13 +8,16 @@ Portal berita berbasis Next.js Pages Router dengan fondasi layanan Go.
 
 Beranda: berita ringkas, pencarian, dan kategori yang mengikuti sumber aktif.
 
-<img src="screenshots/02-artikel.jpg" alt="Detail artikel dengan gambar dan atribusi sumber" width="720">
-
-Detail artikel: judul, waktu terbit, atribusi sumber, dan tautan ke artikel asli.
-
-<img src="screenshots/03-login.jpg" alt="Halaman masuk LokaFeed dengan tombol Google" width="560">
-
-Masuk: satu tombol Google, tanpa formulir tambahan.
+<table>
+<tr>
+<td width="50%"><img src="screenshots/02-artikel.jpg" alt="Detail artikel dengan gambar dan atribusi sumber"></td>
+<td width="50%"><img src="screenshots/03-login.jpg" alt="Halaman masuk LokaFeed dengan tombol Google"></td>
+</tr>
+<tr>
+<td>Detail artikel: atribusi sumber dan tautan artikel asli.</td>
+<td>Masuk: satu tombol Google, tanpa formulir tambahan.</td>
+</tr>
+</table>
 
 ## Struktur
 
@@ -205,20 +208,4 @@ Jangan memasang alat tambahan jika hanya ingin menjalankan pengujian biasa.
 
 ## Lisensi
 
-ISC.
-
-## Glosarium Istilah
-
-- API: antarmuka layanan aplikasi.
-- Callback: alamat penerima hasil otorisasi Google.
-- Dependensi: paket perangkat lunak yang digunakan aplikasi.
-- Commit: catatan perubahan pada Git.
-- SSR: pembuatan halaman pada server.
-- SHA256: fungsi sidik jari data untuk membentuk ID artikel.
-- Cache: penyimpanan sementara hasil pengambilan data.
-- Pagination: pembagian daftar ke beberapa halaman.
-- Retry: pengulangan permintaan setelah gagal.
-- RSS: umpan pembaruan artikel berbentuk XML.
-- Adapter: penyesuai format sumber ke kontrak artikel aplikasi.
-- Metadata: informasi sumber dan kategori yang didukung.
-- Fork: salinan repositori untuk dikembangkan sendiri.
+[ISC](LICENSE) © 2025 Marchel Karuna Kwee.
